@@ -1,0 +1,35 @@
+﻿  MyForm.cpp
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform2.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform2.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform2.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MyForm1.cpp
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\dia.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\elusuario.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform2.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform2.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luis\downloads\proyectomariana-master\proyectomariana-master\proyecto2_marianagonzalez_1097019\myform2.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Actividad.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PROYECTO2_MARIANAGONZALEZ_1097019.vcxproj -> C:\Users\luis\Downloads\ProyectoMariana-master\ProyectoMariana-master\Debug\PROYECTO2_MARIANAGONZALEZ_1097019.exe
